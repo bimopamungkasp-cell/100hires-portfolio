@@ -41,3 +41,17 @@
   - B2B SALES // 5 Words That Instantly Build Trust // Sales Psychology (2025-10-21) - https://www.youtube.com/watch?v=rqV6oKuPPc8
   - 3 B2B SALES Lies That Keep You Broke (2025-10-14) - https://www.youtube.com/watch?v=2SnK-UbA8Ms
 
+## Jeremy Miner
+- Platform: YouTube
+- Channel: https://www.youtube.com/@jeremyminer
+- Kenapa dipilih: Founder of 7th Level Communications, known for NEPQ sales methodology widely applied to B2B cold calling and objection handling in outbound sales.
+- Video yang dikumpulkan:
+  - PRIVATE TRAINING: Get The REAL Truth Out Of Prospects With THIS Line (2026-05-14) - https://www.youtube.com/watch?v=2nMO-IhFxmQ
+  - 2026 Cold Calling Techniques (He Trained 1 Million Sales Reps) (2026-04-16) - https://www.youtube.com/watch?v=il2p-OD4Res
+  - The Biggest Psychological Triggers That Makes Prospects Close themselves (2026-03-08) - https://www.youtube.com/watch?v=CHbOB4w4J8Y
+  - Make Your Prospect's Brain Say "Yes" (Full Sales Keynote) (2026-02-22) - https://www.youtube.com/watch?v=Pz9hk9yLX7o
+  - The Top 6 Sales Questions That Make Prospects Sell Themselves (2026-02-15) - https://www.youtube.com/watch?v=NzKDGo8W5rg
+  - 6 Minutes To Master Identifying Lies In Sales Prospects (2025-12-30) - https://www.youtube.com/watch?v=cds2og4MDMU
+  - Stop Sending More Info To Prospects (Do This Instead!) (2025-09-23) - https://www.youtube.com/watch?v=KuXqf4meibM
+  - 3 Things You Must Do So Prospects Don’t Hate You (2025-09-16) - https://www.youtube.com/watch?v=Vih4JQ7LBwQ
+

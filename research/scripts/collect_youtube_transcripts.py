@@ -34,8 +34,8 @@ MAX_VIDEOS = 8
 PRIMARY_WINDOW_DAYS = 365
 FALLBACK_WINDOW_DAYS = 730
 MAX_FLAT_ENTRIES = 200
-MAX_MATCHED_LOOKUPS = 40
-REQUEST_DELAY_SECONDS = 1.5
+MAX_MATCHED_LOOKUPS = 16
+REQUEST_DELAY_SECONDS = 6
 
 KEYWORDS = [
     "cold email", "cold outreach", "cold call", "cold calling",
@@ -124,7 +124,12 @@ def fetch_flat_entries(channel_url: str) -> list:
 
 
 def fetch_full_metadata(video_id: str) -> dict | None:
-    ydl_opts = {"quiet": True, "no_warnings": True, "skip_download": True}
+    ydl_opts = {
+        "quiet": True,
+        "no_warnings": True,
+        "skip_download": True,
+        "extractor_args": {"youtube": {"player_client": ["android_vr"]}},
+    }
     url = f"https://www.youtube.com/watch?v={video_id}"
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
