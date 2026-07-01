@@ -71,7 +71,7 @@ research/
     └── eric-nowoslawski/   (8 posts)
 ```
 
-**Total: 10 experts, 78 individual sources (38 YouTube transcripts + 40 LinkedIn posts).**
+**Total: 10 experts, 77 individual sources (38 YouTube transcripts + 39 LinkedIn posts).**
 
 ### Quality Control
 Volume wasn't the goal — relevance was. After the first LinkedIn scrape, I manually reviewed all 40 posts for topical relevance. One expert I'd originally picked (Samantha McKenna) turned out to have a recent post history skewed toward personal branding rather than outreach tactics, so I swapped her for Eric Nowoslawski (Growth Engine X), whose recent posts were 8/8 directly on-topic (reply rate optimization, list-building automation, AI-assisted prospecting). This is documented in the commit history and in `sources.md`.
