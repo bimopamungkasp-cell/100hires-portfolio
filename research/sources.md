@@ -55,3 +55,16 @@
   - Stop Sending More Info To Prospects (Do This Instead!) (2025-09-23) - https://www.youtube.com/watch?v=KuXqf4meibM
   - 3 Things You Must Do So Prospects Don’t Hate You (2025-09-16) - https://www.youtube.com/watch?v=Vih4JQ7LBwQ
 
+## Will Barron
+- Platform: YouTube
+- Channel: https://www.youtube.com/c/SalesmanPodcast
+- Kenapa dipilih: Host of the Salesman Podcast, interviews top B2B sales practitioners regularly covering prospecting, outbound, and SaaS sales strategy.
+- Video yang dikumpulkan:
+  - How To Book More Meetings With Cold Email (Raw Pitch Strategy) (2025-03-26) - https://www.youtube.com/watch?v=wqCP1gaBeBU
+  - Step by Step How My "UGLY" Cold Emails Book Meetings DAILY (2025-03-20) - https://www.youtube.com/watch?v=xxY3J_RInL4
+  - 3 Step Cold Email Process With High Potential Reply Rate (2025-03-18) - https://www.youtube.com/watch?v=xURws24x8M8
+  - Brutal Truth - Fancy Email Templates Won't Save Your Cold Email, but this will... (2025-02-25) - https://www.youtube.com/watch?v=2b58zWWVwYU
+  - Give me 20 min, and I'll improve your cold email skills by 148% (2025-02-14) - https://www.youtube.com/watch?v=lYsj5MMRnIo
+  - Cold Calling is EASY Once You Understand This (2025-01-07) - https://www.youtube.com/watch?v=-YbQAGxjZA8
+  - How I write cold emails that get responses (24.8% reply rate) (2024-10-03) - https://www.youtube.com/watch?v=qsdlvvPRdgM
+
