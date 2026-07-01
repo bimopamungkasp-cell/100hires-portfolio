@@ -27,3 +27,17 @@
   - B2B Lead Generation at Scale vs AI Automation (2026-05-04) - https://www.youtube.com/watch?v=HTuPrnjmh9M
   - LinkedIn Lead Generation (You're Wasting Every Yes) (2026-05-01) - https://www.youtube.com/watch?v=acbc1q5m_UM
 
+## Tim Dodd
+- Platform: YouTube
+- Channel: https://www.youtube.com/c/thetimdoddshow
+- Kenapa dipilih: B2B sales trainer covering prospecting and outbound sales process, relevant as a practitioner voice on outreach cadence and pipeline building.
+- Video yang dikumpulkan:
+  - LinkedIn Lead Generation (After The 8 Big Updates) (2026-01-27) - https://www.youtube.com/watch?v=eZfcDAlvkgw
+  - LinkedIn Lead Generation - 7 Laws of Outreach (2025-12-09) - https://www.youtube.com/watch?v=3_oQWLBK5Oo
+  - B2B Sales Techniques // 5 Science-Backed Attention Triggers (2025-11-25) - https://www.youtube.com/watch?v=7xePf7-FrnE
+  - B2B SALES // Lead Any Sales Call - Sales Psychology (2025-11-18) - https://www.youtube.com/watch?v=DXH65lS_6XM
+  - B2B SALES // Secret Psychology Of First Impressions (2025-11-04) - https://www.youtube.com/watch?v=_yIcmtkzG6A
+  - B2B SALES // Why Buyers Ghost After a “Perfect Call" (2025-10-28) - https://www.youtube.com/watch?v=AphVGpyfkdw
+  - B2B SALES // 5 Words That Instantly Build Trust // Sales Psychology (2025-10-21) - https://www.youtube.com/watch?v=rqV6oKuPPc8
+  - 3 B2B SALES Lies That Keep You Broke (2025-10-14) - https://www.youtube.com/watch?v=2SnK-UbA8Ms
+
